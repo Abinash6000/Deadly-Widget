@@ -12,7 +12,8 @@ Deadly Widget is a simple yet powerful Android application that keeps you consci
 
 ## Screenshots
 
-*(Coming soon)*
+<img width="300" alt="Screenshot_20260630_064050" src="https://github.com/user-attachments/assets/4adf8cf2-7831-4df9-88a3-7f4917a03eb2" />
+
 
 ## Tech Stack
 
